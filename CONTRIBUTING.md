@@ -26,6 +26,16 @@ This should be written using Markdown (and the file saved as README.md) - if you
 
 Please make sure that the language that you use is accessible and not full of technical slang - this repository is for beginners and they don't want to be looking up every other word! <br> Try to make things so that there is only a little background knowledge required. <br> Follow the guidelines of layout and directory structure. <br> Remember that your code and content will be curated, which means you might be asked to make changes that you wouldn't necessarily make for your own repositories.
 
+If you're an advanced coder, don't take the "good for beginners" issues and leave them with nothing they can do. Create a new issue and use it to challenge yourself. :)
+
+Don't submit stuff that's low quality because it'll get rejected as spam/disruption and do you no favours.
+
+That includes:
+- Pull requests that are automated (e.g. scripted opening pull requests to remove whitespace/fix typos/optimize images).
+- Pull requests that are disruptive (e.g. taking someone else's branch/commits and making a pull request).
+- Pull requests that are regarded by a project maintainer as a hindrance vs. helping.
+- Something that's clearly an attempt to simply +1 your pull request count for October.
+
 Oh, and if you have a big project on the go it's best to leave yourself notes like I've done below.
 
 Tanya
