@@ -16,7 +16,7 @@ Here are the steps:
 5. Await your pull request being merged into the main branch and tick off one of your four pull requests!
 
 Those are the basics, but obviously there are a few more things to it. A project for this repository deliberately needs 4 things so you can get your four pull requests:
-- a readme file to explain what the example does, and a list of what physical equipment you need. <br> Include any other things you can do with the same kit if you can.
+- a readme file to explain what the example does, and a list of what physical equipment you need. <br>**It's really important that you pick the equipment from the equipment list for the kit we have available. This list can be found in this directory.** <br>Include any other things you can do with the same kit if you can.
 This should be written using Markdown (and the file saved as README.md) - if you haven't used it before then [there is a cheatsheet here.](https://www.markdownguide.org/cheat-sheet/)
 - the code example itself
 - a wiring diagram or clear annotated photo of a breadboard
@@ -28,7 +28,7 @@ Please make sure that the language that you use is accessible and not full of te
 
 If you're an advanced coder, don't take the "good for beginners" issues and leave them with nothing they can do. Create a new issue and use it to challenge yourself. :)
 
-Don't submit stuff that's low quality because it'll get rejected as spam/disruption and do you no favours.
+Don't submit stuff that's low quality because it'll get rejected as spam/disruption and do you no favours. Your pull request will be refused and tagged as invalid/spam and will not count.
 
 That includes:
 - Pull requests that are automated (e.g. scripted opening pull requests to remove whitespace/fix typos/optimize images).
