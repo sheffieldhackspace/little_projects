@@ -2,6 +2,6 @@
 
 Please use these images in your own diagrams if they would be helpful. Alternatively, draw your own, or use a photo.
 
-![microbit](https://github.com/sheffieldhackspace/little_projects/microbit/graphics/microbit_outline.png "A Paint rendition of a microbit")
+![microbit](https://github.com/sheffieldhackspace/little_projects/blob/main/microbit/graphics/microbit_outline.png "A Paint rendition of a microbit")
 <br>
-![pixel strip](https://github.com/sheffieldhackspace/little_projects/microbit/graphics/pixel_strip.png "A Paint rendition of our pixel strip")
+![pixel strip](https://github.com/sheffieldhackspace/little_projects/blob/main/microbit/graphics/pixel_strip.png "A Paint rendition of our pixel strip")
