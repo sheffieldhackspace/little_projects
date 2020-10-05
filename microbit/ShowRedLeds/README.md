@@ -10,7 +10,7 @@ Button A will turn the five LEDs red and button B will clear the LEDs and turn t
 - 1 x Neopixel strip (WS2812) with 5 pixels
 
 ### Wiring the Microbit:
-####There are three crocodile clips for this project which need to be connected to the following microbit pins
+**There are three crocodile clips for this project which need to be connected to the following Microbit pins**
 - 1 connects to ground - **GND**
 - 1 connects to pin 0 - **0**
 - 1 connects to voltage - **3V**
@@ -28,9 +28,9 @@ Button A will turn the five LEDs red and button B will clear the LEDs and turn t
 | Pin 0 | DATA |
 | 3V | 5V |
 
-**NOTE**
-* We suggest using pin 0 as this is what the is reflected in the code. If you want to use a different pin, make sure to change the code on line 4 to which ever pin you choose
-*Example - If you were using pin 1, the code should show:
+**NOTE** We suggest using pin 0 as this is what the is reflected in the code. If you want to use a different pin, make sure to change the code on line 4 to which ever pin you choose
+
+**Example** - If you were using pin 1, the code should show: <br>
 <code>np = neopixel.NeoPixel(pin1, 5)</code>
 
 ### Changing the colour:
