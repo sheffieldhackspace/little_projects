@@ -26,3 +26,8 @@ As you can see in the diagram the connections are simple
 - The **short leg** of an LED indicates the **Cathode (-)** :black_circle:
 
 **If the polarity is not respected the led will burn out** :boom:
+
+## Challenges :star:
+
+ - Make the LED blink faster/slower
+ - Try to create the word SOS in Morse Code using the blinking LED
