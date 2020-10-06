@@ -28,6 +28,8 @@ Button A will turn the five LEDs on showing a different colour for each LED and 
 | Pin 0 | DATA |
 | 3V | 5V |
 
+**See wiring diagram for more information**
+
 **NOTE** - We suggest using pin 0 as this is what the is reflected in the code. If you want to use a different pin, make sure to change the code on line 4 to which ever pin you choose
 
 Example - If you were using pin 1, the code should show: <br>
