@@ -2,11 +2,11 @@
 
 A basic program where we connect a LED and create a program to turn it on and off in intervals of one second.
 
-## :one: Arduino Uno Guide 
+# :one: Arduino Uno
 
 In the first case we will use the **Arduino Uno**.
 
-Some info about it:
+## Some info about it :page_with_curl:
 
 **Arduino Uno** is a microcontroller board **based on** the **ATmega328P**. It has **14 digital input/output pins** (of which **6 can be used as PWM** outputs), **6 analog inputs**, a **USB connection**, a **power jack** and a **reset button.**
 
@@ -36,20 +36,13 @@ PIN**
 
 **If the polarity is not respected the led will burn out** :boom:
 
-<br>
-<br>
-
----
 ---
 
-<br>
-<br>
+# :two: Arduino Nano
 
-## :two: Arduino Nano Guide 
+In the second case we will use an **Arduino NANO.**
 
-In the second case we will use an **Arduino Nano.**
-
-Some info about it:
+## Some info about it :page_with_curl:
 
 The **Arduino Nano** is a **small**, **complete**, and **breadboard-friendly** board **based on** the **ATmega328.** It has **14 digital input/output pins** (of which **6 can be used as PWM** outputs), **8 analog inputs** and a **Micro USB connection.**
 
@@ -79,16 +72,10 @@ Remember:
 - The **long leg** of an LED indicates the **Anode (+)** :red_circle:
 - The **short leg** of an LED indicates the **Cathode (-)** :black_circle:
 
-<br>
-<br>
-
 ---
----
-
-<br>
-<br>
 
 # :star: Challenges :star:
 
  - Make the LED blink faster/slower
- - Try to create the word SOS in Morse Code using the blinking LED
+ -  Try to create the word SOS in Morse Code using the blinking LED
+ 
