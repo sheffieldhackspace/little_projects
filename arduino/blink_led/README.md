@@ -30,4 +30,4 @@ As you can see in the diagram the connections are simple
 ## Challenges :star:
 
  - Make the LED blink faster/slower
- -  Try to create the word SOS in Morse Code using the blinking LED
+ - Try to create the word SOS in Morse Code using the blinking LED
