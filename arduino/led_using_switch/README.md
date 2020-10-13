@@ -43,11 +43,11 @@ These switches initially remain in the off state. When they are pressed, they al
 
    *Any other Digital I/O pin can be used. Just modify the code to use the pin you have connected. Same persists for **Arduino Uno** where you can connect to any Digital I/O pin.
 
-4. Connect Cathod(-) of LED to one end of 330 ohm resistor using jumper wire.
+4. Connect Cathode(-) of LED to one end of 330 ohm resistor using jumper wire.
 
 5. Connect the other end of resistor to GND of nano connected on breadboard using jumper wire.
 
-6. Connect one leg of one side of switch to 5V of Arduino nano using jumper wire.
+6. Connect one leg of one side of switch to 5V of Arduino Nano using jumper wire.
 
 7. Connect one leg on other side of the switch to one end of 470 ohm resistor using jumper wire.
 
