@@ -30,5 +30,10 @@ void loop() {
     digitalWrite(led, HIGH);      //if switch is pressed, LED is turned ON
     
   }
+  
+  else
+  {
+    digitalWrite(led,LOW); //if switch is released, LED is turned OFF
+  }
                       
 }
