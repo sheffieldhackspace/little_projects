@@ -2,8 +2,7 @@
   Controlling LED using a push button
 
   Initially the LED is OFF and when the switch is pressed, 
-  it will start glowing and remain unchanged even if the switch is pressed again. 
-  It can be turned OFF only if the system is switched off or restarts.
+  it will start glowing and turn off when the switch is released
 
 */
 
