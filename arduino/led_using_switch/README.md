@@ -65,7 +65,7 @@ There we go! We have completed all the connections. Refer to the wiring diagram 
 
 Code has been provided for 2 cases:
 
-1) Initially the LED is OFF and when the switch is pressed, it will start glowing and remain unchanged even if the switch is pressed again. It can be turned OFF only if the system is switched off or restarts.
+1) Initially the LED is OFF and when the switch is pressed, it will start glowing and turns OFF when the switch is released.
 
 2) LED will change its state whenever the switch is pressed. If it is OFF, it will turn ON and if it is ON, it will turn OFF.
 
